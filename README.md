@@ -1,4 +1,5 @@
 This project "Facebook network analysis Using NetworkX" covers the following key aspects:
+**google colab link:** https://colab.research.google.com/drive/188Kbkdw0O5rlsfhqI0ketUnyBleUKJKy?usp=sharing
 
 * facebook Network Analysis with NetworkX
 1. Analyze and visualize network graphs.
@@ -11,6 +12,7 @@ This project "Facebook network analysis Using NetworkX" covers the following key
 1. Delve into the concept of scale-free networks and their characteristics.
 2. Conduct an analysis to demonstrate Facebook network graph is scale-free Graph or not.
 3. proof it using "rich are getting richer phenomena"
+
 
 # Dataset information:
 Facebook network dataset consists 4039 nodes and 88234 edges
