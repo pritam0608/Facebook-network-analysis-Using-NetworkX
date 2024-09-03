@@ -1,6 +1,6 @@
 This project "Facebook network analysis Using NetworkX" covers the following key aspects:
 
-**google colab link:** https://colab.research.google.com/drive/188Kbkdw0O5rlsfhqI0ketUnyBleUKJKy?usp=sharing
+**google colab link:** https://drive.google.com/file/d/1hhsLB16hJxNGP6puIHek5LyVu6FhMkv-/view?usp=sharing
 
 * facebook Network Analysis with NetworkX
 1. Analyze and visualize network graphs.
